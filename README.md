@@ -2,7 +2,7 @@
 Bootstrap Sample
 
 ## GitHub Page
-https://kkawailab.github.io/bssample01
+https://kkawailab.github.io/bssample01/
 
 https://kklab.mobi/bssample01/
 
